@@ -3,28 +3,28 @@
 Science Products Schemas
 ========================
 
-Level 1 (uncalibrated) File schema
+Level 1 (uncalibrated) Top-level schema
 ----------------------------------
 
 .. asdf-autoschemas::
 
   wfi_science_raw-1.0.0
 
-Level 2 (calibrated exposure) File schema
+Level 2 (calibrated exposure) Top-level schema
 -----------------------------------------
 
 .. asdf-autoschemas::
 
    wfi_image-1.0.0
 
-Level 3 (resampled mosaic) File schema
+Level 3 (resampled mosaic) Top-level schema
 --------------------------------------
 
 .. asdf-autoschemas::
 
   wfi_mosaic-1.0.0
 
-Level 4 File schemas
+Level 4 Top-level schemas
 --------------------
 
 .. asdf-autoschemas::
